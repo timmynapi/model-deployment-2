@@ -1,0 +1,4 @@
+gunicorn
+pandas
+scikit-learn==1.2.1
+pip=23.3.1
